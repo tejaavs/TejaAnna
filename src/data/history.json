@@ -1,0 +1,24 @@
+[
+  {
+    "role": "Salesforce Administrator",
+    "organisation": "Atos",
+    "startDate": "May 2021",
+    "endDate": "Jan 2023",
+    "experiences": [
+      "Developed custom Salesforce solutions using Apex, Visualforce, and LWCs to enhance system functionality.",
+      "Automated workflows, optimized code performance, and integrated Salesforce with third-party applications."
+    ],
+    "imageSrc": "history/atos.png"
+  },
+  {
+    "role": "Salesforce Administrator",
+    "organisation": "Aarmec",
+    "startDate": "Jan 2020",
+    "endDate": "Apr 2021",
+    "experiences": [
+      "Managed user profiles, security settings, and customized Salesforce to meet business needs.",
+      "Built reports, dashboards, and user-friendly interfaces with LWCs and Visualforce."
+    ],
+    "imageSrc": "history/aarmec.png"
+  }
+]

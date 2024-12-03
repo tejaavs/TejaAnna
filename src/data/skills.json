@@ -1,0 +1,35 @@
+[
+  {
+    "title": "HTML",
+    "imageSrc": "skills/html.png"
+  },
+  {
+    "title": "CSS",
+    "imageSrc": "skills/css.png"
+  },
+  {
+    "title": "SOQL,SOSL",
+    "imageSrc": "skills/soql.png"
+  },
+  {
+    "title": "Oracle",
+    "imageSrc": "skills/oracle.png"
+  },
+  {
+    "title": "VF",
+    "imageSrc": "skills/visualforce.png"
+  },
+  {
+    "title": "Apex",
+    "imageSrc": "skills/soql.png"
+  },
+  {
+    "title": "Apex",
+    "imageSrc": "skills/soql.png"
+  },
+  {
+    "title": "Lightning Components",
+    "imageSrc": "skills/lightningComponents.png"
+  }
+  
+]
